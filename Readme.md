@@ -10,6 +10,7 @@ Gerekli Kütüphaneler: setup.bat dosyasını çalıştırarak gerekli kütüpha
 Token Dosyası: 
 Proje klasöründe bir tokens.txt dosyası oluşturun ve her satıra bir Discord bot token'ı ekleyin. Örnek:
 BOT_TOKEN_1
+
 BOT_TOKEN_2
 
 
