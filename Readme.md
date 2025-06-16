@@ -54,13 +54,5 @@ Python 3.8+
 discord.py kütüphanesi
 Geçerli Discord bot token'ları
 
-Dosyalar
-
-enhanced_discord_bot.py: Ana bot scripti.
-start.bat: Botu başlatır.
-setup.bat: Gerekli kütüphaneleri yükler.
-tokens.txt: Bot token'larınızı saklayacağınız dosya (kendi oluşturmanız gerekir).
-README.md: Bu dosya, kullanım kılavuzu.
-
 
 Daha iyi şeyler için sağ üst köşeden starlamayı unutmayın
