@@ -62,3 +62,5 @@ setup.bat: Gerekli kütüphaneleri yükler.
 tokens.txt: Bot token'larınızı saklayacağınız dosya (kendi oluşturmanız gerekir).
 README.md: Bu dosya, kullanım kılavuzu.
 
+
+Daha iyi şeyler için sağ üst köşeden starlamayı unutmayın
